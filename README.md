@@ -1,3 +1,5 @@
+<img width="1376" height="768" alt="Line_Swapper_Image" src="https://github.com/user-attachments/assets/21b7bb93-3f83-49ba-baeb-3da2b73d4719" />
+
 # Line Swapper in Assembly Language (MASM)
 
 ## Overview
